@@ -1,8 +1,4 @@
 # SmartEnvMonitor
-
-Here’s the `README.md` content in markdown format:  
-
-```markdown
 # IoT-Driven Environmental Monitoring System 🌎🏢  
 
 This project demonstrates an IoT-enabled environmental monitoring system designed for smart buildings. It uses sensors to track temperature, light, and humidity, processes data with a Go-based backend, and visualizes trends via a React.js frontend. The system enables remote control and automated energy-efficient adjustments to environmental conditions.  
@@ -103,6 +99,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contributors 🤝  
 - **Maitreyi Muthya**  
 - Open to contributions. Feel free to fork and submit pull requests!  
-```  
-
-This is ready to be copied and uploaded to the repository's `README.md` file. Let me know if you'd like further adjustments! 🚀
